@@ -1,13 +1,12 @@
-node_modules
-
+node_modules/
 .env
 
-/.agents
-/.claude
-/.windsurf
-/generated
+/.agents/
+/.claude/
+/.windsurf/
+/generated/
 
-/prisma/migrations
+/prisma/migrations/
 
-skills-lock-json
+skills-lock.json
 package-lock.json
